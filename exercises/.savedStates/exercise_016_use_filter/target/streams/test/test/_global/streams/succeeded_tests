@@ -1,0 +1,6 @@
+#Successful Tests
+#Sat May 09 21:39:07 COT 2020
+Trivial=1587243244049
+com.lightbend.training.scalatrain.TrainSpec=1589078346989
+com.lightbend.training.scalatrain.JourneyPlannerSpec=1589078347037
+com.lightbend.training.scalatrain.TimeSpec=1589078347028

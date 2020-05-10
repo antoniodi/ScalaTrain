@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="" />
+    <list default="true" id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/resources/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/com/lightbend/training/scalatrain/Station.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/com/lightbend/training/scalatrain/Time.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/com/lightbend/training/scalatrain/Train.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/main/scala/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/resources/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/resources/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/scala/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/scala/com/lightbend/training/scalatrain/JourneyPlannerSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/scala/com/lightbend/training/scalatrain/TestData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/Customer$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/META-INF/exercises.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Station$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Station.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Time$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/classes/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/META-INF/exercises.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/JourneyPlannerSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TimeSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/console/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/testListeners/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/console/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/console/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/loadedTestFrameworks/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/test/_global/streams/succeeded_tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/test-reports/TEST-Trivial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.savedStates/exercise_016_use_filter/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bookmark" beforeDir="false" afterPath="$PROJECT_DIR$/.bookmark" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/JourneyPlannerSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/JourneyPlannerSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/JourneyPlannerSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/JourneyPlannerSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,17 +169,23 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ajJQ87KHLM2pru1knbbXgvN84o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.test">
     <configuration name="CovTermFile" type="Application" factoryName="Application" temporary="true">
@@ -149,38 +297,38 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state width="426" height="466" key="DebuggerActiveHint/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587267246685" />
-    <state width="1696" height="251" key="GridCell.Tab.0.bottom" timestamp="1589063570005">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state width="1696" height="249" key="GridCell.Tab.0.bottom" timestamp="1589141116108">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="251" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
-    <state width="1696" height="251" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
-    <state width="1696" height="251" key="GridCell.Tab.0.center" timestamp="1589063570005">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state width="1696" height="249" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589141116108" />
+    <state width="1696" height="249" key="GridCell.Tab.0.center" timestamp="1589141116108">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="251" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
-    <state width="1696" height="251" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
-    <state width="1696" height="251" key="GridCell.Tab.0.left" timestamp="1589063570004">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state width="1696" height="249" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589141116108" />
+    <state width="1696" height="249" key="GridCell.Tab.0.left" timestamp="1589141116108">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704783" />
     <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="251" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570004" />
-    <state width="1696" height="251" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
-    <state width="1696" height="251" key="GridCell.Tab.0.right" timestamp="1589063570005">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state width="1696" height="249" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589141116108" />
+    <state width="1696" height="249" key="GridCell.Tab.0.right" timestamp="1589141116108">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="251" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
-    <state width="1696" height="251" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
+    <state width="1696" height="249" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589141116108" />
     <state width="1696" height="251" key="GridCell.Tab.1.bottom" timestamp="1589063570005">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -213,11 +361,11 @@
     <state width="1696" height="251" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="251" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
     <state width="1696" height="251" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875930" />
-    <state x="566" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589065203517">
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589077764321">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="566" y="296" key="com.intellij.ide.util.TipDialog/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588436793850" />
-    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589065203517" />
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589077764321" />
     <state x="532" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1587872863149">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -228,7 +376,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
-          <line>31</line>
+          <line>39</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -236,7 +384,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
-          <line>32</line>
+          <line>40</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -244,7 +392,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
-          <line>33</line>
+          <line>41</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>

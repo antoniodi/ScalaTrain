@@ -1,0 +1,39 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for org.scalatest.tools.Framework produced 3 initial tasks for 3 tests.
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.TrainSpec, sbt.ForkMain$SubclassFingerscan@394467b6, false, [SuiteSelector])
+[info] TrainSpec:
+[info] Creating a Train
+[info] - should throw an IllegalArgumentException for a schedule with 0 or 1 elements
+[info] stations
+[info] - should be initialized correctly
+[debug]     Produced 0 nested tasks and 2 events.
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.TimeSpec, sbt.ForkMain$SubclassFingerscan@359c0c9c, false, [SuiteSelector])
+[info] TimeSpec:
+[info] Creating a Time
+[info] - should throw an IllegalArgumentException for hours not within 0 and 23
+[info] - should throw an IllegalArgumentException for minutes not within 0 and 59
+[info] The default arguments for hours and minutes
+[info] - should be equal to 0
+[info] asMinutes
+[info] - should be initialized correctly
+[info] Calling minus or -
+[info] - should return the correct difference in minutes
+[debug]     Produced 0 nested tasks and 5 events.
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.JourneyPlannerSpec, sbt.ForkMain$SubclassFingerscan@2e534747, false, [SuiteSelector])
+[info] JourneyPlannerSpec:
+[info] stations
+[info] - should be initialized correctly
+[info] Calling trainsAt
+[info] - should return the correct trains
+[debug]     Produced 0 nested tasks and 2 events.
+[info] Run completed in 1 second, 878 milliseconds.
+[info] Total number of tests run: 9
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	com.lightbend.training.scalatrain.JourneyPlannerSpec
+[debug] 	com.lightbend.training.scalatrain.TimeSpec
+[debug] 	com.lightbend.training.scalatrain.TrainSpec
