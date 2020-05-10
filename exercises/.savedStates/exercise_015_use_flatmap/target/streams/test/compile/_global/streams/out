@@ -1,0 +1,8 @@
+[debug] Acquiring lock on file C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\project\target\.sbt-compilation-infos\exercises-test\.sbt-idea-lock ...
+[error] C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\test\scala\com\lightbend\training\scalatrain\TrainSpec.scala:16:80: type mismatch;
+[error]  found   : com.lightbend.training.scalatrain.Station
+[error]  required: (com.lightbend.training.scalatrain.Time, com.lightbend.training.scalatrain.Station)
+[error]       an[IllegalArgumentException] should be thrownBy Train("ICE", 724, Vector(munich))
+[error]                                                                                ^
+[error] one error found
+[debug] Releasing lock on file C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\project\target\.sbt-compilation-infos\exercises-test\.sbt-idea-lock.

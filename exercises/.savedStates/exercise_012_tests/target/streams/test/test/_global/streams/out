@@ -1,0 +1,23 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.TimeSpec, sbt.ForkMain$SubclassFingerscan@17d827e3, false, [SuiteSelector])
+[info] TimeSpec:
+[info] Creating a Time
+[info] - should throw an IllegalArgumentException for hours not within 0 and 23
+[info] - should throw an IllegalArgumentException for minutes not within 0 and 59
+[info] The default arguments for hours and minutes
+[info] - should be equal to 0
+[info] asMinutes
+[info] - should be initialized correctly
+[info] Calling minus or -
+[info] - should return the correct difference in minutes
+[debug]     Produced 0 nested tasks and 5 events.
+[info] Run completed in 1 second, 463 milliseconds.
+[info] Total number of tests run: 5
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	com.lightbend.training.scalatrain.TimeSpec

@@ -1,0 +1,86 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Train.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Time.scala)
+[debug] 	added: Set(C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\com\lightbend\training\scalatrain\Train.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\com\lightbend\training\scalatrain\Time.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\test.scala)
+[debug] 	modified: Set()
+[debug] Invalidated products: Set(C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\target\scala-2.13\classes\Train.class, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\target\scala-2.13\classes\Time.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Train, Time)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Train.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Time.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(Train, Time)
+[debug] All initially invalidated sources:Set(C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\com\lightbend\training\scalatrain\Time.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Time.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\test.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\com\lightbend\training\scalatrain\Train.scala, C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\Train.scala)
+[debug] Initial set of included nodes: Train, Time
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[info] Compiling 3 Scala sources to C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.1
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.1
+[debug] [zinc] Running cached compiler 5230f73b for Scala compiler version 2.13.1
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-unchecked
+[debug] 	-deprecation
+[debug] 	-language:_
+[debug] 	-encoding
+[debug] 	UTF-8
+[debug] 	-Xfatal-warnings
+[debug] 	-bootclasspath
+[debug] 	C:\apps\java\jdk1.8.0_171\jre\lib\resources.jar;C:\apps\java\jdk1.8.0_171\jre\lib\rt.jar;C:\apps\java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\apps\java\jdk1.8.0_171\jre\lib\jsse.jar;C:\apps\java\jdk1.8.0_171\jre\lib\jce.jar;C:\apps\java\jdk1.8.0_171\jre\lib\charsets.jar;C:\apps\java\jdk1.8.0_171\jre\lib\jfr.jar;C:\apps\java\jdk1.8.0_171\jre\classes;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.1\scala-library-2.13.1.jar
+[debug] 	-classpath
+[debug] 	C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\exercises\target\scala-2.13\classes;C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises\common\target\scala-2.13\classes;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-core\2.10.1\jackson-core-2.10.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-annotations\2.10.1\jackson-annotations-2.10.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.10.1\jackson-datatype-jdk8-2.10.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.10.1\jackson-datatype-jsr310-2.10.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\play\play-functional_2.13\2.8.1\play-functional_2.13-2.8.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-databind\2.10.1\jackson-databind-2.10.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.1\scala-reflect-2.13.1.jar;C:\Users\dell\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\play\play-json_2.13\2.8.1\play-json_2.13-2.8.1.jar
+[debug] Scala compilation took 4.9813016 s
+[info] Done compiling.
+[debug] Invalidating (transitively) by inheritance from test...
+[debug] Initial set of included nodes: test
+[debug] Invalidated by transitive inheritance dependency: Set(test)
+[debug] Change NamesChange(test,ModifiedNames(changes = UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(reverse$default$2,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(test,[Default]), UsedName(test;init;,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(reverse,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]))) invalidates 1 classes due to The test has the following regular definitions changed:
+[debug] 	UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(reverse$default$2,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(test,[Default]), UsedName(test;init;,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(reverse,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]).
+[debug] 	> by transitive inheritance: Set(test)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from com.lightbend.training.scalatrain.Train...
+[debug] Initial set of included nodes: com.lightbend.training.scalatrain.Train
+[debug] Invalidated by transitive inheritance dependency: Set(com.lightbend.training.scalatrain.Train)
+[debug] Change NamesChange(com.lightbend.training.scalatrain.Train,ModifiedNames(changes = UsedName(hashCode,[Default]), UsedName(com;lightbend;training;scalatrain;Train;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(Train,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(number,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(kind,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]))) invalidates 1 classes due to The com.lightbend.training.scalatrain.Train has the following regular definitions changed:
+[debug] 	UsedName(hashCode,[Default]), UsedName(com;lightbend;training;scalatrain;Train;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(Train,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(number,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(kind,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]).
+[debug] 	> by transitive inheritance: Set(com.lightbend.training.scalatrain.Train)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from com.lightbend.training.scalatrain.Time...
+[debug] Initial set of included nodes: com.lightbend.training.scalatrain.Time
+[debug] Invalidated by transitive inheritance dependency: Set(com.lightbend.training.scalatrain.Time)
+[debug] Change NamesChange(com.lightbend.training.scalatrain.Time,ModifiedNames(changes = UsedName(minutes,[Default]), UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(-,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(com;lightbend;training;scalatrain;Time;init;,[Default]), UsedName(minus,[Default]), UsedName(asMinutes,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(<init>$default$1,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(<init>$default$2,[Default]), UsedName(==,[Default]), UsedName(hours,[Default]), UsedName(wait,[Default]), UsedName(Time,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]))) invalidates 1 classes due to The com.lightbend.training.scalatrain.Time has the following regular definitions changed:
+[debug] 	UsedName(minutes,[Default]), UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(-,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(com;lightbend;training;scalatrain;Time;init;,[Default]), UsedName(minus,[Default]), UsedName(asMinutes,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(<init>$default$1,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(<init>$default$2,[Default]), UsedName(==,[Default]), UsedName(hours,[Default]), UsedName(wait,[Default]), UsedName(Time,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]).
+[debug] 	> by transitive inheritance: Set(com.lightbend.training.scalatrain.Time)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Train...
+[debug] Initial set of included nodes: Train
+[debug] Invalidated by transitive inheritance dependency: Set(Train)
+[debug] Change NamesChange(Train,ModifiedNames(changes = UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(Train,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName(Train;init;,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(number,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(kind,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]))) invalidates 1 classes due to The Train has the following regular definitions changed:
+[debug] 	UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(Train,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName(Train;init;,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(number,[Default]), UsedName(wait,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(kind,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]).
+[debug] 	> by transitive inheritance: Set(Train)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Time...
+[debug] Initial set of included nodes: Time
+[debug] Invalidated by transitive inheritance dependency: Set(Time)
+[debug] Change NamesChange(Time,ModifiedNames(changes = UsedName(minutes,[Default]), UsedName(hashCode,[Default]), UsedName(Time;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(minus,[Default]), UsedName(asMinutes,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(hours,[Default]), UsedName(wait,[Default]), UsedName(Time,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]))) invalidates 1 classes due to The Time has the following regular definitions changed:
+[debug] 	UsedName(minutes,[Default]), UsedName(hashCode,[Default]), UsedName(Time;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(getClass,[Default]), UsedName($isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(minus,[Default]), UsedName(asMinutes,[Default]), UsedName($asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]), UsedName(hours,[Default]), UsedName(wait,[Default]), UsedName(Time,[Default]), UsedName(asInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]).
+[debug] 	> by transitive inheritance: Set(Time)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: 
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] No classes were invalidated.

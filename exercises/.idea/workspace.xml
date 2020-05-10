@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ajJQ87KHLM2pru1knbbXgvN84o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="CovTermFile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CovTermFile" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.CovTermFile" />
+        <item itemvalue="Application.Exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="base" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="base [file:/C:/Users/dell/Documents/A-Study/Scala/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common [file:/C:/Users/dell/Documents/A-Study/Scala/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$/common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises [file:/C:/Users/dell/Documents/A-Study/Scala/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$/exercises" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="base-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="17443849299251" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3613670086" />
+        <entry key="$PROJECT_DIR$/project/AdditionalSettings.scala" value="2349573283" />
+        <entry key="$PROJECT_DIR$/project/CommonSettings.scala" value="3507679501" />
+        <entry key="$PROJECT_DIR$/project/CompileOptions.scala" value="1555338004" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="740050381" />
+        <entry key="$PROJECT_DIR$/project/Man.scala" value="4220285629" />
+        <entry key="$PROJECT_DIR$/project/Navigation.scala" value="3706378638" />
+        <entry key="$PROJECT_DIR$/project/SavedStates.scala" value="3567903481" />
+        <entry key="$PROJECT_DIR$/project/ShellPrompt.scala" value="1612609151" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2538779230" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="" />
+      <created>1587243051157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587243051157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2520" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589066979140">
+      <screen x="1920" y="-4" width="1739" height="939" />
+    </state>
+    <state x="2520" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589066979140" />
+    <state x="546" y="348" width="1382" height="591" key="#xdebugger.evaluate" timestamp="1588649598680">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="-735" y="231" key="#xdebugger.evaluate/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305718067" />
+    <state x="610" y="348" key="#xdebugger.evaluate/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587269646313" />
+    <state x="133" y="288" width="1382" height="591" key="#xdebugger.evaluate/0.0.1739.939@0.0.1739.939" timestamp="1587440729050" />
+    <state x="546" y="348" key="#xdebugger.evaluate/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1588649598680" />
+    <state x="357" y="227" key="#xdebugger.evaluate/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561827866" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1587267246685">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587267246685" />
+    <state width="1696" height="251" key="GridCell.Tab.0.bottom" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
+    <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
+    <state width="1696" height="251" key="GridCell.Tab.0.center" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
+    <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
+    <state width="1696" height="251" key="GridCell.Tab.0.left" timestamp="1589063570004">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704783" />
+    <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570004" />
+    <state width="1696" height="251" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
+    <state width="1696" height="251" key="GridCell.Tab.0.right" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
+    <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875508" />
+    <state width="1696" height="251" key="GridCell.Tab.1.bottom" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.1.bottom/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305705439" />
+    <state width="1696" height="251" key="GridCell.Tab.1.bottom/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595860" />
+    <state width="1696" height="251" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.1.bottom/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.1.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875930" />
+    <state width="1696" height="251" key="GridCell.Tab.1.center" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.1.center/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305705439" />
+    <state width="1696" height="251" key="GridCell.Tab.1.center/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.1.center/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.1.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875930" />
+    <state width="1696" height="251" key="GridCell.Tab.1.left" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.1.left/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305705439" />
+    <state width="1696" height="251" key="GridCell.Tab.1.left/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
+    <state width="1696" height="251" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.1.left/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.1.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875930" />
+    <state width="1696" height="251" key="GridCell.Tab.1.right" timestamp="1589063570005">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="229" key="GridCell.Tab.1.right/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305705439" />
+    <state width="1696" height="251" key="GridCell.Tab.1.right/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595860" />
+    <state width="1696" height="251" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
+    <state width="1696" height="251" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589063570005" />
+    <state width="1696" height="251" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1588561875930" />
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589065203517">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588436793850" />
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589065203517" />
+    <state x="532" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1587872863149">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="532" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587872863149" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
+          <line>31</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
+          <line>32</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/exercises/src/main/scala/test.scala</url>
+          <line>33</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
