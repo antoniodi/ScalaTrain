@@ -2,16 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/src/test/scala/TestTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/TrainInfo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bookmark" beforeDir="false" afterPath="$PROJECT_DIR$/.bookmark" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Train.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Train.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/TestTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TestData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TestData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/Train.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TimeSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TimeSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/TestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/console/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/console/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +296,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="93" y="93" width="1553" height="754" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589241940907" />
+    <state x="675" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1589394545909">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="675" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1739.939@0.0.1739.939" timestamp="1589394545909" />
     <state x="863" y="298" width="1382" height="591" key="#xdebugger.evaluate" timestamp="1589341924942">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
