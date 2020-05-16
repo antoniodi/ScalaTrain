@@ -1,0 +1,9 @@
+[debug] The com.lightbend.training.scalatrain.JourneyPlanner has the following regular definitions changed:
+[debug] 	UsedName(isShortTripF,[Default]).
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) com.lightbend.training.scalatrain.JourneyPlanner: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) com.lightbend.training.scalatrain.JourneyPlanner.
+[debug] None of the modified names appears in source file of com.lightbend.training.scalatrain.JourneyPlannerSpec. This dependency is not being considered for invalidation.
+[debug] None of the modified names appears in source file of com.lightbend.training.scalatrain.TestData. This dependency is not being considered for invalidation.
+[debug] No changes
