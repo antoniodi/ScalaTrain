@@ -4,9 +4,40 @@
     <list default="true" id="1990ea78-ec97-4b5a-88f4-aa7a4b7214b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.bookmark" beforeDir="false" afterPath="$PROJECT_DIR$/.bookmark" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/src/test/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/resources/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/JourneyPlannerSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/JourneyPlannerSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TestData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TestData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/JourneyPlannerSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/JourneyPlannerSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData$.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/console/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/console/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.JourneyPlannerSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TimeSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/test-reports/TEST-com.lightbend.training.scalatrain.TrainSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffb8a66dd38c46151865$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffb8a66dd38c46151865.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffb8a66dd38c46151865.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +135,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="TestTest" />
-      <option name="testName" value="Extra long factorials should return the factorials" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises" />
@@ -125,7 +155,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="TestTest" />
-      <option name="testName" value="Must find palindrome should return -1 if differences are upper than max differences&#10;Must find palindrome should return highest value palindrome" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises" />
@@ -146,7 +175,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="TestTest" />
-      <option name="testName" value="Must find palindrome should return highest value palindrome" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises" />
@@ -167,7 +195,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="com.lightbend.training.scalatrain.TimeSpec" />
-      <option name="testName" value="Calling toString should return a properly formatted string representation" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises" />
@@ -342,20 +369,21 @@
     <state width="1696" height="251" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="315" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589248432670" />
     <state width="1696" height="315" key="GridCell.Tab.1.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589341932996" />
-    <state x="566" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589077764321">
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589589748548">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="566" y="296" key="com.intellij.ide.util.TipDialog/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588436793850" />
-    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589077764321" />
+    <state x="566" y="296" key="com.intellij.ide.util.TipDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589589748548" />
     <state x="634" y="174" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1589238641623">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="634" y="174" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589238641623" />
-    <state x="532" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1589169552505">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state x="2452" y="196" width="672" height="678" key="search.everywhere.popup" timestamp="1589586255061">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state x="532" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587872863149" />
     <state x="532" y="200" width="672" height="678" key="search.everywhere.popup/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589169552505" />
+    <state x="2452" y="196" width="672" height="678" key="search.everywhere.popup/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589586255061" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
