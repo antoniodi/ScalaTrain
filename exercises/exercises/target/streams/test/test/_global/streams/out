@@ -2,14 +2,14 @@
 [debug] Forking tests - parallelism = false
 [debug] Create a single-thread test executor
 [debug] Runner for org.scalatest.tools.Framework produced 3 initial tasks for 3 tests.
-[debug]   Running TaskDef(com.lightbend.training.scalatrain.TrainSpec, sbt.ForkMain$SubclassFingerscan@50f2165f, false, [SuiteSelector])
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.TrainSpec, sbt.ForkMain$SubclassFingerscan@6270eba6, false, [SuiteSelector])
 [info] TrainSpec:
 [info] Creating a Train
 [info] - should throw an IllegalArgumentException for a schedule with 0 or 1 elements
 [info] stations
 [info] - should be initialized correctly
 [debug]     Produced 0 nested tasks and 2 events.
-[debug]   Running TaskDef(com.lightbend.training.scalatrain.TimeSpec, sbt.ForkMain$SubclassFingerscan@665fdd1d, false, [SuiteSelector])
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.TimeSpec, sbt.ForkMain$SubclassFingerscan@1eb8341d, false, [SuiteSelector])
 [info] TimeSpec:
 [info] Creating a Time
 [info] - should throw an IllegalArgumentException for hours not within 0 and 23
@@ -25,7 +25,7 @@
 [info] Calling Ordered operators
 [info] - should work as expected
 [debug]     Produced 0 nested tasks and 7 events.
-[debug]   Running TaskDef(com.lightbend.training.scalatrain.JourneyPlannerSpec, sbt.ForkMain$SubclassFingerscan@202c5f3a, false, [SuiteSelector])
+[debug]   Running TaskDef(com.lightbend.training.scalatrain.JourneyPlannerSpec, sbt.ForkMain$SubclassFingerscan@1a3b74b0, false, [SuiteSelector])
 [info] JourneyPlannerSpec:
 [info] stations
 [info] - should be initialized correctly
@@ -37,7 +37,7 @@
 [info] - should return false for more than one station in between
 [info] - should return true for zero or one stations in between
 [debug]     Produced 0 nested tasks and 5 events.
-[info] Run completed in 1 second, 27 milliseconds.
+[info] Run completed in 1 second, 487 milliseconds.
 [info] Total number of tests run: 14
 [info] Suites: completed 3, aborted 0
 [info] Tests: succeeded 14, failed 0, canceled 0, ignored 0, pending 0
