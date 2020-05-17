@@ -5,12 +5,11 @@
       <change beforePath="$PROJECT_DIR$/.bookmark" beforeDir="false" afterPath="$PROJECT_DIR$/.bookmark" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/JourneyPlanner.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Train.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Train.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/training/scalatrain/Time.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/src/test/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/resources/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TrainSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/classes/com/lightbend/training/scalatrain/JourneyPlanner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/scala-2.13/test-classes/com/lightbend/training/scalatrain/TrainSpec.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
@@ -19,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/_global/streams/copy-resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/_global/streams/out" afterDir="false" />
@@ -89,7 +89,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.TimeSpec.Calling toString should return a properly formatted string representation">
+  <component name="RunManager" selected="ScalaTest.TimeSpec">
     <configuration name="TestTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="exercises" />
       <option name="allowRunningInParallel" value="false" />
@@ -150,7 +150,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTest.Must find palindrome should return highest value palindrome" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="TimeSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="exercises" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -162,7 +162,7 @@
       <option name="searchTest" value="Across module dependencies" />
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
-      <option name="testClassPath" value="TestTest" />
+      <option name="testClassPath" value="com.lightbend.training.scalatrain.TimeSpec" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="C:\Users\dell\Documents\A-Study\Scala\LSL-P-lightbend-scala-language-professional\exercises" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.TimeSpec" />
         <item itemvalue="ScalaTest.TimeSpec.Calling toString should return a properly formatted string representation" />
         <item itemvalue="ScalaTest.TestTest.Extra long factorials should return the factorials" />
         <item itemvalue="ScalaTest.TestTest" />
         <item itemvalue="ScalaTest.TestTest.Must find palindrome should return -1 if differences are upper than max differences&#10;Must find palindrome should return highest value palindrome" />
-        <item itemvalue="ScalaTest.TestTest.Must find palindrome should return highest value palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -267,12 +267,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="600" y="226" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589398093590">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state x="2520" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589670058957">
+      <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state x="600" y="226" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1739.939@0.0.1739.939" timestamp="1589398093590" />
     <state x="600" y="226" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589238674550" />
-    <state x="2520" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589066979140" />
+    <state x="2520" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589670058957" />
     <state x="93" y="93" width="1553" height="754" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589241940907">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -293,38 +293,38 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state width="426" height="466" key="DebuggerActiveHint/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1587267246685" />
-    <state width="1696" height="315" key="GridCell.Tab.0.bottom" timestamp="1589341932996">
+    <state width="1696" height="249" key="GridCell.Tab.0.bottom" timestamp="1589678676774">
       <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="249" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589252245995" />
-    <state width="1696" height="315" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589341932996" />
-    <state width="1696" height="315" key="GridCell.Tab.0.center" timestamp="1589341932996">
+    <state width="1696" height="249" key="GridCell.Tab.0.bottom/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589678676774" />
+    <state width="1696" height="249" key="GridCell.Tab.0.center" timestamp="1589678676774">
       <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="249" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589252245995" />
-    <state width="1696" height="315" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589341932996" />
-    <state width="1696" height="315" key="GridCell.Tab.0.left" timestamp="1589341932996">
+    <state width="1696" height="249" key="GridCell.Tab.0.center/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589678676774" />
+    <state width="1696" height="249" key="GridCell.Tab.0.left" timestamp="1589678676774">
       <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704783" />
     <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="249" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589252245995" />
-    <state width="1696" height="315" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589341932996" />
-    <state width="1696" height="315" key="GridCell.Tab.0.right" timestamp="1589341932996">
+    <state width="1696" height="249" key="GridCell.Tab.0.left/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589678676774" />
+    <state width="1696" height="249" key="GridCell.Tab.0.right" timestamp="1589678676774">
       <screen x="1920" y="-4" width="1739" height="939" />
     </state>
     <state width="1696" height="229" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@-1920.4.1739.939" timestamp="1588305704784" />
     <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939/-1920.4.1739.939@0.0.1739.939" timestamp="1588348595859" />
     <state width="1696" height="251" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1588391326093" />
     <state width="1696" height="249" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1589252245995" />
-    <state width="1696" height="315" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589341932996" />
+    <state width="1696" height="249" key="GridCell.Tab.0.right/1920.-4.1739.939/0.0.1739.939@1920.-4.1739.939" timestamp="1589678676774" />
     <state width="1696" height="315" key="GridCell.Tab.1.bottom" timestamp="1589341932996">
       <screen x="1920" y="-4" width="1739" height="939" />
     </state>
@@ -404,11 +404,6 @@
           <url>file://$PROJECT_DIR$/exercises/src/main/scala/Test.scala</url>
           <line>24</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/training/scalatrain/TimeSpec.scala</url>
-          <line>45</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
