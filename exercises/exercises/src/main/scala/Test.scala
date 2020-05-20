@@ -1,3 +1,4 @@
+import scala.concurrent.Future
 import scala.math.BigDecimal.RoundingMode
 
 class Animal(val name: String)
@@ -15,7 +16,7 @@ object Test {
 //
 //    val tuple = a.zip(b)
 //    Array(tuple.count{ case (x, y) => x > y}, tuple.count{ case (x, y) => x > y})
-//    print(compareTriplets(a, b))
+//    print(compareTriplets(a, b))sealed
 //
 //    def f(n: Int) = (0 until n).foreach(x => println("Hello World"))
 //    def g(n: Int) = for (x <- 0 until n + 1) {println("Hello World")}
@@ -26,7 +27,12 @@ object Test {
 //    println(testFor())
 //    println(drawPyramid(6))
 //    (9972 to 10100).foreach(num => println(s"${num} - ${highestValuePalindrome(num.toString, num.toString.length, 10)} ${}"))
-    println(highestValuePalindromeV2("1234", 4, 100))
+//    println(highestValuePalindromeV2("1234", 4, 100))
+    val myFuture = reverseList(Array(1, 2, 3), Array(1, 2, 3))
+  }
+
+  def evaluate() = {
+    val x = 3; if (x > 2) x=4 else x=x *2
   }
 
   def extraLongFactorialsV2(n: Int): BigInt = {
@@ -216,8 +222,8 @@ object Test {
     def f(arr:List[Int]):Int = arr.filter(_ % 2 != 0).sum
   }
 
-  def reverseList(): Unit = {
-    val a = List(1,2,3).reverse
+  def reverseList(list: Array[Int] *): Unit = {
+    list.reverse
   }
 
   def filterOddValues(arr:List[Int]): Unit = {
